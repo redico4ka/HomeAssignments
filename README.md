@@ -1,5 +1,5 @@
 # HomeAssignments 
-# Assignment 1
+# Assignment 2
 ## Author
 Нагуляк Михаил Александрович, группа 24.Б82-мм
 ## Contacts
@@ -16,7 +16,10 @@ st132694@stdudent.spbu.ru
 – Считать строку из чисел (операндов) и знаков операций (+-*/), элементы разделены пробелами
 – Интерпретировать строку как обратную польскую запись выражения и вычислить это выражение
 ## Build
-make1
-make2
+- для а Makefile
+- для b MakefileB
 ## Run
-./size
+- a 
+./Makefile
+- b
+./MakefileB
