@@ -17,9 +17,9 @@ st132694@stdudent.spbu.ru
 – Интерпретировать строку как обратную польскую запись выражения и вычислить это выражение
 ## Build
 - для а Makefile
-- для b Makefile(b)
+- для b MakefileB
 ## Run
 - a 
 ./Makefile
 - b
-./Makefile(b)
+./MakefileB
