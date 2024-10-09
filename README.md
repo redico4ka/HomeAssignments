@@ -1,5 +1,5 @@
 # HomeAssignments 
-# Assignment 1
+# Assignment 2
 ## Author
 Нагуляк Михаил Александрович, группа 24.Б82-мм
 ## Contacts
